@@ -1,0 +1,6 @@
+{
+  "name": "Bengali Voice Clone Studio & Flask Exporter",
+  "description": "XTTS-v2 বাংলা ভয়েস ক্লোনিং ফ্লাস্ক প্রজেক্ট এবং সম্পূর্ণ GitHub Codespaces রেডি সোর্স কোড।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
